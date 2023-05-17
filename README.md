@@ -1,7 +1,7 @@
 # Doctor-Appointment-System
 The Doctor Appointment System Application is a web-based platform designed to streamline and simplify the process of scheduling and managing doctor appointments. This application aims to provide a convenient and efficient solution for patients, doctors, and healthcare providers.
 
-![Logo]([(https://res.cloudinary.com/dzz32ksnf/image/upload/v1684358562/10130_im7nqv.jpg)])
+![Logo](https://res.cloudinary.com/dzz32ksnf/image/upload/v1684358562/10130_im7nqv.jpg)
 
 # LYST : Website_Clone 
 
