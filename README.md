@@ -1,19 +1,10 @@
 # Doctor-Appointment-System
+![Logo](https://res.cloudinary.com/dzz32ksnf/image/upload/v1684358562/10130_im7nqv.jpg)
 The Doctor Appointment System Application is a web-based platform designed to streamline and simplify the process of scheduling and managing doctor appointments. This application aims to provide a convenient and efficient solution for patients, doctors, and healthcare providers.
 
-![Logo](https://res.cloudinary.com/dzz32ksnf/image/upload/v1684358562/10130_im7nqv.jpg)
 
-# LYST : Website_Clone 
+Website implements the functioning of an doctor-appointment-system Website that performs various functions like sign up, sign in, log out,request for a doctor id , user can book appointments ,user can apply for a doctor.
 
-Lyst is a fashion technology company, and premium shopping app.
-
-For over 160 million annual shoppers, we offer the most comprehensive range of products from 17,000 of the world’s leading brands and stores.
-
-Website implements the functioning of an E-commerce Website that performs various functions like sign up, sign in, log out, add to cart, checkout, sort by sale, filter by category and much more.
-
-Designed the clone with all features within the stipulated time. Used and applied react redux javascript styled-components reactjs redux-thunk axios netlify react-redux chakra-ui as well as material-ui and Animation skills to create and test the clone. Worked with a 2-member research team for accomplishing the same.
-
-## [Demo video](https://drive.google.com/file/d/1dOWrFhLLqQx2MKEwf_Eu0a5JJvM3Om4R/view?usp=sharing)
 
 ## Tech Stack
 
