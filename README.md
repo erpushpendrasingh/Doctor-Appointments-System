@@ -36,10 +36,10 @@ Website implements the functioning of an doctor-appointment-system Website that 
 
 -    **Home Page**
 
-<img src="https://res.cloudinary.com/dtzoydf3b/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1671377749/Screenshot_8815_b12icn.jpg" alt="product page" />
+<img src="https://res.cloudinary.com/dzz32ksnf/image/upload/v1684359867/Screenshot_10125_qqk98z.png" alt="Home page" />
 
-<img src="https://res.cloudinary.com/dtzoydf3b/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1671377749/Screenshot_8817_tdtxbw.jpg" alt="product page"/>
-
+<!-- <img src="https://res.cloudinary.com/dtzoydf3b/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1671377749/Screenshot_8817_tdtxbw.jpg" alt="product page"/>
+ -->
 ## Installation
 
 Install the project with Vs Code
