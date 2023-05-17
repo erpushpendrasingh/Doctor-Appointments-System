@@ -79,7 +79,7 @@ Start server
 To deploy this project
 
 ```bash
-  deploy manually on netlify
+  deploy manually on render
 ```
 
 ## 🔗 Contact Me
@@ -101,34 +101,9 @@ Don't forget to give the project a star! Thanks again!
 ## Authors
 
 -    [@Pushpendra Singh](https://github.com/erpushpendrasingh)
--    [@Rahul Sheelavantar](https://github.com/rahul2437)
--    [@Ranjan Kumar](https://github.com/ranjankumar9)
+
 
 ## Acknowledgements
 
 -    [Masai School](https://www.masaischool.com/)
 
-<!-- Pushpendra Singh
-fp04_204
-erpushpendrasingh8900@gmail.com
-
-Ranjan Kumar
-fp05_020
-ranjankumar91234153@gmail.com
-
-Abhishek chandel
-fw14_330
-mybrosraiden@gmail.com
-
-Rahul Ohol
-fw19_0203
-nevergiveupyou123@gmail.com
-
-Rahul Sheelavantar
-fw19_0779
-rahulsheelavantar@gmail.com
-
-Vivek Goswami
-vivek.goswami@masaischool.com
-
-npm i --legec -->
