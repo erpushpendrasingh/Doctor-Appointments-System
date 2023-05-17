@@ -53,7 +53,7 @@ Install the project with Vs Code
 Clone the project
 
 ```bash
-  git clone https://github.com/erpushpendrasingh/seemly-porter-7181.git
+  git clone https://github.com/erpushpendrasingh/Production-Doctor-Appointment-System/tree/main
 ```
 
 Open vs-code terminal
