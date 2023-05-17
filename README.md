@@ -13,29 +13,20 @@ Website implements the functioning of an doctor-appointment-system Website that 
 -    javascript
 -    styled-components
 -    reactjs
--    material-ui
 -    redux-thunk
 -    axios
--    netlify
+-    render
 -    react-redux
--    chakra-ui
+-    antdesign
 
-#### Position :- Team Leader
+#### Project Type :- Individiual Project
 
 #### Duration : 1 Week
 
 #### Area of Responsibility :
 
 -    Git Repository management | Implemented
--    Homepage feature and Admin Dashboard Products Page | API & Database
-
-#### Rahul Sheelavantar Area of Responsibility
-
--    Implemented Authentication feature | Cart feature
-
-#### Ranjan Kumar Area of Responsibility
-
--    Implemented Checkout feature | Sales page | All mens page
+-    All the feature and functionality
 
 ## Demo
 
